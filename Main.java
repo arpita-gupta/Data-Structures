@@ -1,5 +1,6 @@
 // Java program to implement a stack that supports
 // getMinimum() in O(1) time and O(1) extra space.
+// Author Arpita Gupta.
 import java.util.*;
  
 // A user defined stack that supports getMin() in
