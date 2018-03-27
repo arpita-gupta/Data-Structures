@@ -4,7 +4,7 @@
 // Author Arpita Gupta
 import java.util.*;
  
-class GFG {
+class BiggestNumber {
  
     // The main function that prints the 
     // arrangement with the largest value.
