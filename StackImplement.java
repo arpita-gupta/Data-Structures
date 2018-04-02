@@ -8,8 +8,8 @@ import java.util.*;
 /*  Class arrayStack  */
 class arrayStack
 {
-    protected int arr[];
-    protected int top, size, len;
+    private int arr[];
+    private int top, size, len;
     /*  Constructor for arrayStack */
     public arrayStack(int n)
     {
